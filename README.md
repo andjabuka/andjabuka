@@ -1,6 +1,6 @@
 ![banner](https://github.com/andjabuka/Meus-Projetos/blob/main/banner.png?raw=true)
 <h1 align="center">Olá 👋,eu sou Anderson de Souza</h1>
-<h3 align="center">Desenvolvedor Fron-tend em desenvolvimento</h3>
+<h3 align="center">Desenvolvedor Front-end em desenvolvimento</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andjabuka&label=Profile%20views&color=0e75b6&style=flat" alt="andjabuka" /> </p>
 
